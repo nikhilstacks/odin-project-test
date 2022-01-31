@@ -1,0 +1,27 @@
+#first{
+    background-color: #1F2937;
+    padding: 0 15% 15%;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+nav a{
+    float: right;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    padding-left: 80px;
+}
+.heading{
+    font-size: 48px;
+    font-weight: bolder;
+    float: left;
+}
+.mainImage{
+    float: right;
+    height: 200px;
+    width: 200px;
+}
