@@ -1,10 +1,15 @@
+*{
+    font-family: sans-serif;
+}
+
 #first{
     background-color: #1F2937;
-    padding: 0 15% 15%;
+    padding: 2% 20% 20%;
 }
 
 .logo{
     font-size: 24px;
+    font-weight: bold;
     color: #F9FAF8;
 }
 
@@ -15,13 +20,18 @@ nav a{
     text-decoration: none;
     padding-left: 80px;
 }
+.main{
+    margin-top: 15%;
+    display: flex;
+}
 .heading{
     font-size: 48px;
     font-weight: bolder;
     float: left;
+    color: #F9FAF8;
 }
 .mainImage{
     float: right;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 600px;
 }
