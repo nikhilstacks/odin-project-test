@@ -31,10 +31,14 @@ nav a{
     font-weight: bolder;
     float: left;
     color: #F9FAF8;
+    margin: 0;
 }
 p{
     font-size: 18px;
     color: #e5e7eb;
+}
+.head{
+    margin-right: 50px;
 }
 .mainImage{
     float: right;
@@ -98,6 +102,10 @@ button{
 }
 #sign .contact div{
     margin: 10px;
+}
+#sign .lastButton{
+    justify-content: center;
+    margin-right: auto;
 }
 #sign button{
     border: 1px solid white;
