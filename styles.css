@@ -90,6 +90,7 @@ button{
 /* sign section  */
 #sign{
     padding: 3% 20% 5%;
+    
 }
 
 #sign .contact{
@@ -98,15 +99,17 @@ button{
     padding: 3%;
     color: white;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact .lastButton{
+    margin-left: auto;
 }
 #sign .contact div{
     margin: 10px;
 }
-#sign .lastButton{
-    justify-content: center;
-    margin-right: auto;
-}
+
 #sign button{
     border: 1px solid white;
     color: white;
